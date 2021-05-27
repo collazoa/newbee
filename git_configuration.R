@@ -5,3 +5,6 @@
 
 
 # exercise to stage the files 
+
+y<-seq(1:10, 2)
+
